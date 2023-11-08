@@ -1,0 +1,116 @@
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.exe
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.deps.json
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.runtimeconfig.json
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.pdb
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.GenerateResource.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.AssemblyInfoInputs.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.AssemblyInfo.cs
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.CoreCompileInputs.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\refint\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.pdb
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.genruntimeconfig.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\ref\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.AssemblyReference.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Properties.Resources.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.CopyComplete
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmLogin.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmMain.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmHome.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmCategoryView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmCategoryAdd.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.exe
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.deps.json
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.runtimeconfig.json
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.pdb
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmLogin.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmHome.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmMain.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmCategoryAdd.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Properties.Resources.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleAdd.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleView.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmCategoryView.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.GenerateResource.cache
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.AssemblyInfo.cs
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.CopyComplete
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\refint\Res 1.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.pdb
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.genruntimeconfig.cache
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\ref\Res 1.dll
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmTableAdd.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmTableView.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmStaffAdd.resources
+C:\Users\Thinkpad\Desktop\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmStaffView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.exe
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.deps.json
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.runtimeconfig.json
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Res 1.pdb
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.AssemblyReference.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmHome.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmLogin.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmMain.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmCategoryAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmPOS.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmProductAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmStaffAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmTableAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmTableSelect.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmWaiterSelect.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.ucProduct.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Properties.Resources.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmCategoryView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmProductView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmStaffView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmTableView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.GenerateResource.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.AssemblyInfoInputs.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.AssemblyInfo.cs
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.CoreCompileInputs.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.csproj.CopyComplete
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\refint\Res 1.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.pdb
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res 1.genruntimeconfig.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\ref\Res 1.dll

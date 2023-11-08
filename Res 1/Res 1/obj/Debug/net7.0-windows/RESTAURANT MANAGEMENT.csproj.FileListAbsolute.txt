@@ -1,0 +1,42 @@
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\RESTAURANT MANAGEMENT.exe
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\RESTAURANT MANAGEMENT.deps.json
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\RESTAURANT MANAGEMENT.runtimeconfig.json
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\RESTAURANT MANAGEMENT.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\RESTAURANT MANAGEMENT.pdb
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.csproj.AssemblyReference.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmHome.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmLogin.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.frmMain.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmCategoryAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmPOS.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmProductAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.frmStaffAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmTableAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Model.ucProduct.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.Properties.Resources.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleAdd.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.SampleView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmCategoryView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmProductView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmStaffView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\Res_1.View.frmTableView.resources
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.csproj.GenerateResource.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.AssemblyInfoInputs.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.AssemblyInfo.cs
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.csproj.CoreCompileInputs.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.csproj.CopyComplete
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\refint\RESTAURANT MANAGEMENT.dll
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.pdb
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\RESTAURANT MANAGEMENT.genruntimeconfig.cache
+C:\Users\Dat Tran\source\repos\Res 1\Res 1\Res 1\obj\Debug\net7.0-windows\ref\RESTAURANT MANAGEMENT.dll
